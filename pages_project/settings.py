@@ -25,7 +25,7 @@ SECRET_KEY = 'wx+rpr(rske@k=-0&223q2s7sz#5--srpj(aoa&vo0n83hj+^7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
